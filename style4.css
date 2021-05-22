@@ -1,0 +1,84 @@
+body
+{
+	width:90%;
+	margin-left: auto;
+	margin-right: auto;
+	background-color: #FFFFFF;
+	font-family:Arial, Helvetica, sans-serif;
+	background-image:url("image/shibuya_crossing.jpg");
+	background-size: cover;
+	background-repeat:no-repeat;
+	background-attachment:fixed;
+	font-size: 120%;
+}
+.nar
+{
+	font-size:170%;
+}
+a
+{
+	
+	color : #000000;
+	text-decoration : none;
+	
+}
+nav li:hover{
+	background-color:#666666
+}
+
+nav ul
+{
+	padding: 0px;
+	margin: 0px;
+	list-style-type: none;
+	background-color:#000000;
+}
+nav li
+{
+	display:inline-block;
+	margin: 0px;
+	padding: 0px;
+	width: 19.82%;
+	height: 20%;
+	border: 1px solid #000000;
+	text-align:center;
+	
+	
+}
+nav li a
+{
+	color:#FFFFFF;
+	display:block;
+	text-decoration:none;
+	
+}
+#logo
+{
+	width:50%;
+	height:100%;
+}
+.page-wrap
+{
+	margin-top:5%;
+	margin-left:5%;
+	width: 90%;
+	height:auto 100%;
+	background:#FFFFFF;
+	
+}
+.title
+{
+	text-decoration:underline;
+	font-size:150%;
+	font-family:sherif;
+}
+.lien:hover
+{
+	text-decoration:underline;
+}
+.text
+{
+	font-size:130%;
+	text-align:center;
+	font-family:Comic Sans MS;
+}

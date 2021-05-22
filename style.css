@@ -1,0 +1,111 @@
+body
+{
+	width:90%;
+	margin-left: auto;
+	margin-right: auto;
+	background-color: #FFFFFF;
+	font-family:Tahoma, Geneva, sans-serif;
+	background-image:url("image/Fond.jpg");
+	background-size: cover;
+	background-repeat:no-repeat;
+	background-attachment:fixed;
+	font-size: 120%;
+}
+.nar
+{
+	font-size:170%;
+}
+
+a
+{
+	
+	color : #000000;
+	text-decoration : none;
+	
+}
+nav li:hover{
+	background-color:#666666
+}
+
+nav ul
+{
+	padding: 0px;
+	margin: 0px;
+	list-style-type: none;
+	background-color:#000000;
+}
+nav li
+{
+	display:inline-block;
+	margin: 0px;
+	padding: 0px;
+	width: 19.82%;
+	height: 20%;
+	border: 1px solid #000000;
+	text-align:center;
+}
+nav li a
+{
+	color:#FFFFFF;
+	display:block;
+	text-decoration:none;
+	
+}
+#logo
+{
+	width:50%;
+	height:100%;
+}
+.page-wrap
+{
+	margin-top:5%;
+	margin-left:25%;
+	width: 50%;
+	height:auto 100%;
+	background:#FFFFFF;
+	border-radius:10%;
+	float:right;
+	right:0;
+}
+.avatar
+{
+	width:20%;
+	height:20%;
+	float:right;
+}
+.first
+{
+	font-size:150%;
+	font-family:Comic Sans MS;
+}
+.flag
+{
+	float:right;
+}
+.title
+{
+	font-size:150%;
+	font-family:Comic Sans MS;
+	text-align:center;
+}
+.ai
+{
+	float:right;
+}
+#Left_panel
+{
+	margin: 0 10% 0 10%;
+	display:left;
+	z-index: 1;
+	overflow-x: hidden;
+	left:0;
+	position:absolute;
+}
+.footer
+{
+	float:right;
+	margin-top:5%;
+	width: 100%;
+	height:auto 100%;
+	background:#FFFFFF;
+}
